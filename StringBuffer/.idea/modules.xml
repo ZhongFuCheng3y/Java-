@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer.iml" />
+      <module fileurl="file://E:/java刘意/day13_String、Integer概述/day13/code/day13_StringBuffer/day13_StringBuffer.iml" filepath="E:/java刘意/day13_String、Integer概述/day13/code/day13_StringBuffer/day13_StringBuffer.iml" />
+    </modules>
+  </component>
+</project>

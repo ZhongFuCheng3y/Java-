@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Oracle - @localhost [2]" uuid="0783bc30-b8cc-424e-b9d5-b0d4d4d3c141">
+      <secret-storage>master_key</secret-storage>
+      <user-name>scott</user-name>
+      <introspection-scope>*:PUBLIC,SCOTT,SYS,SYSTEM</introspection-scope>
+      <resolve-scope>*:PUBLIC,SCOTT</resolve-scope>
+    </data-source>
+    <data-source name="MySQL - mydata@localhost" uuid="0c68df81-2f16-4dd1-895d-6c4db2902aa0">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>mydata:</introspection-scope>
+      <resolve-scope>mydata:</resolve-scope>
+    </data-source>
+  </component>
+</project>

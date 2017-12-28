@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Title</title>
+    <!--自己编写一个简单解析工具,去解析xml dtd是否配套-->
+    <script>
+        //创建文档解析对象
+        var xmldoc = new ActiveXObject("Microsoft.XMLDOM");
+
+        //开启校验
+        xmldoc.validateOnParse = "true";
+
+        //指定校验哪一个dtd文件
+        xmldoc.load("product.xml");
+
+        //给出信息
+        document.writeln("错误的信息是:" + xmldoc.parseError.reason + "<br/>");
+        document.writeln("错误行号是:" + xmldoc.parseError.line + "<br/>");
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

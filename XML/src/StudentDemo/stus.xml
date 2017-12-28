@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student sid="001">
+        <name>小明</name>
+        <course>
+            <java>90</java>
+            <oracle>90</oracle>
+            <vb>89</vb>
+        </course>
+    </student>
+    <student sid="002">
+        <name>小李</name>
+        <course>
+            <java>9</java>
+            <oracle>70</oracle>
+            <vb>8</vb>
+        </course>
+    </student>
+    <student sid="003">
+        <name>小韩</name>
+        <course>
+            <java>90</java>
+            <oracle>70</oracle>
+            <vb>85</vb>
+        </course>
+    </student>
+    <student sid="004">
+        <name>小明名</name>
+        <course>
+            <java>34</java>
+            <oracle>50</oracle>
+            <vb>58</vb>
+        </course>
+    </student>
+    <student sid="005">
+        <name>小红</name>
+        <course>
+            <java>29</java>
+            <oracle>39</oracle>
+            <vb>88</vb>
+        </course>
+    </student>
+</students>

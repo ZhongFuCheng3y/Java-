@@ -1,0 +1,6 @@
+<!ELEMENT 班级 (学生+)>
+<!ELEMENT 学生 (名字,年龄,介绍)>
+<!--#PCDATA任何的文本-->
+<!ELEMENT 名字 (#PCDATA)>
+<!ELEMENT 年龄 (#PCDATA)>
+<!ELEMENT 介绍 (#PCDATA)>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE CATALOG SYSTEM 'product.dtd'>
+<CATALOG>
+    <PRODUCT NAME="康师傅矿泉水" CATEGORY="HandTool" PARTNUM="abc" PLANT="Milwaukee"   INVENTORY="Backordered">
+        <SPECIFICATIONS WEIGHT="800" POWER="600" >这里是细节</SPECIFICATIONS>
+        <PRICE ></PRICE>
+    </PRODUCT>
+</CATALOG>

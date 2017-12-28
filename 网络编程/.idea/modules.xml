@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Java刘意/day26_网络编程/day26/code/day26_Net/src/day22_IO/day22_IO.iml" filepath="D:/Java刘意/day26_网络编程/day26/code/day26_Net/src/day22_IO/day22_IO.iml" />
+      <module fileurl="file://D:/Java刘意/day26_网络编程/day26/code/day26_Net/day26_Net.iml" filepath="D:/Java刘意/day26_网络编程/day26/code/day26_Net/day26_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程.iml" filepath="$PROJECT_DIR$/网络编程.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/finally用法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/throw和throws区别" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/了解异常" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/处理异常" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/异常的方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/异常的注意事项" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/抛出异常" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/编译异常和运行异常的区别" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/自定义异常" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

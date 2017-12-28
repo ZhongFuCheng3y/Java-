@@ -1,0 +1,31 @@
+<!--
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE CATALOG SYSTEM 'product.dtd'>
+<CATALOG>
+    <PRODUCT NAME="康师傅矿泉水" CATEGORY="Table" PARTNUM="abc" PLANT="Milwaukee" INVENTORY="Backordered">
+        <SPECIFICATIONS WEIGHT="800" POWER="500">这里是细节</SPECIFICATIONS>
+        <PRICE>110</PRICE>
+    </PRODUCT>
+</CATALOG>-->
+
+
+
+
+    <!--自己编写一个简单解析工具,去解析xml dtd是否配套-->
+    <script>
+        //创建文档解析对象
+        var xmldoc = new ActiveXObject("Microsoft.XMLDOM");
+
+        //开启校验
+        xmldoc.validateOnParse = "true";
+
+        //指定校验哪一个dtd文件
+        xmldoc.load("product.xml");
+
+        //给出信息
+        document.writeln("错误的信息是:" + xmldoc.parseError.reason + "<br/>");
+        document.writeln("错误行号是:" + xmldoc.parseError.line + "<br/>");
+
+
+    </script>

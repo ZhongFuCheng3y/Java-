@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/java刘意/day14_正则表达式/day14/code/day14_Regex/day14_Regex.iml" filepath="E:/java刘意/day14_正则表达式/day14/code/day14_Regex/day14_Regex.iml" />
+      <module fileurl="file://E:/java刘意/day14/code/day14_Regex/day14_Regex.iml" filepath="E:/java刘意/day14/code/day14_Regex/day14_Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/正则表达式.iml" filepath="$PROJECT_DIR$/正则表达式.iml" />
+    </modules>
+  </component>
+</project>
